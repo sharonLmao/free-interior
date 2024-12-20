@@ -7,8 +7,8 @@ This resource provides the **full Diamond Cas*** interior** for FiveM. this map 
 1. **Download the Resource**
    - Clone or download this repository.
 
-2. **Extract the Files**
-   - Extract the contents of the `.zip` file into your FiveM server's `resources` folder.
+2. **Place Resource**
+   - Place the resource file into your FiveM server's `resources` folder.
 
 3. **Add to Server Configuration**
    - Open your `server.cfg` file and add the following line:
