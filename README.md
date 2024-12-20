@@ -1,7 +1,7 @@
 # Diamond Cas*** Interior for FiveM
 
 ### Overview
-This resource provides the **full Diamond Cas*** interior** for FiveM. What makes this resource unique is that it does **not** use traditional streaming methods that can cause crashes for players. By optimizing and modifying the ymaps and ytyps in the interior, this resource is only **13.9 MB** in size.
+This resource provides the **full Diamond Cas*** interior** for FiveM. this map does **not** use traditional streaming methods that can cause crashes for players. By optimizing and modifying the ymaps and ytyps in the interior, this resource is only **13.9 MB** in size.
 
 ### Installation
 1. **Download the Resource**
