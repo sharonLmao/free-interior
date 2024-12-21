@@ -1,6 +1,6 @@
 # Diamond Cas*** Interior for FiveM
 **Importent**
-As of December 21, 2024, The map is free on my tebex (https://the-s-project-store.tebex.io/). Sorry for the inconvenience. PS: You can use it, and it will work perfectly.
+As of December 21, 2024, The map is free on my tebex (https://the-s-project-store.tebex.io/). Sorry for the inconvenience.
 
 ### Overview
 This resource provides the **full Diamond Cas*** interior** for FiveM. this map does **not** use traditional streaming methods that can cause crashes for players. By modifying just the ymaps and ytyps of the original interior, this resource is only **13.9 MB** in size.
